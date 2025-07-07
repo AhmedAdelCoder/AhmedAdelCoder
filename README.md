@@ -31,7 +31,18 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
 </div>
+
+---
+
+## 🧠 Cool Stuff I Suggest
+
+- 🎮 [**Add an interactive project gallery**](https://github.com/AhmedAdelCoder?tab=repositories): Show off your coolest repos as cards.
+- 🌐 Add a section for **What I'm Learning Now**: Could be AI, Rust, DevOps...
+- 🧩 Embed a **Mini Game** (like tic-tac-toe) with HTML/CSS/JS in a repo and link it here.
+- 🧠 Add a "Did You Know?" section with tech fun facts
+- 💬 Quote section: Add your favorite tech/motivation quote below your banner
 
 ---
 
