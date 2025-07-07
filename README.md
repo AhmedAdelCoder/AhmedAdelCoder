@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hey there! I'm Ahmed Adel</h1>
-
-<p align="center">🚀 Passionate about building modern full-stack applications and exploring cutting-edge technologies.</p>
+<h1 align="center">👋 Hey, I'm Ahmed Adel</h1>
+<p align="center">💻 Passionate about coding, building backends & playing with snakes 🐍</p>
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,nextjs,tailwind,py,go,nestjs,graphql" height="50" />
 </div>
 
 ---
@@ -28,15 +27,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 🐍 Snake Game Contributions
+## 🐍 Snake Game Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmedAdelCoder/snk/output/github-snake.svg" alt="Snake animation" />
