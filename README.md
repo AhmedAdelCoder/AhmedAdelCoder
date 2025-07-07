@@ -32,3 +32,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmedAdelCoder/snake-game/output/github-snake.svg" alt="Snake animation" />
 </div>
+![Snake animation](https://raw.githubusercontent.com/AhmedAdelCoder/snksnake-game/main/output/github-snake.svg)
+
