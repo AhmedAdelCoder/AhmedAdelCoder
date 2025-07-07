@@ -29,4 +29,15 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-cont
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedAdelCoder/AhmedAdelCoder/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🐍 Snake Game Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmedAdelCoder/snk/output/github-snake.svg" alt="Snake animation" />
+</div>
