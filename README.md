@@ -1,15 +1,27 @@
 # 👋 Welcome to My GitHub Profile
 
-I'm <span align="center">
+I'm <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E0F&center=true&width=435&lines=Ahmed+Adel+Coder;Full+Stack+Web+Developer;Loves+TypeScript+%26+Next.js" alt="Typing SVG" />
-</span>
+</div>
 
 ---
 
 ## 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws,cpp,js,java" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
 </div>
 
 ---
