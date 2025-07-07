@@ -1,6 +1,8 @@
 # 👋 Welcome to My GitHub Profile
 
-I'm **Ahmed Adel**, a passionate full-stack developer who loves building modern web applications and exploring backend technologies.
+I'm <span align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E0F&center=true&width=435&lines=Ahmed+Adel+Coder;Full+Stack+Web+Developer;Loves+TypeScript+%26+Next.js" alt="Typing SVG" />
+</span>
 
 ---
 
