@@ -13,7 +13,24 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws,cpp,js,java,docker,figma,vercel" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
 </div>
 
 ---
