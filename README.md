@@ -2,7 +2,7 @@
 
 <h1>🚀 Welcome to My Universe 🌌</h1>
 
-<!-- Typing SVG -->
+<!-- Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79E0F&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ahmed+Adel+Coder;Full-Stack+Web+Developer;TypeScript+Lover+%7C+Next.js+Enthusiast;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
 
 <!-- Banner -->
@@ -72,5 +72,7 @@
 
 <!-- Typing SVG Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" alt="Typing SVG Footer" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻)
+
 </p>
