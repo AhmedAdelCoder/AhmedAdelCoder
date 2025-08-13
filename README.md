@@ -16,14 +16,13 @@
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
 </div>
 
