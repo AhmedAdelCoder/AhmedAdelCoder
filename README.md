@@ -79,5 +79,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=8A2BE2&width=435&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" />
+  <img 
+       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" 
+       alt="Typing SVG" 
+  />
 </p>
