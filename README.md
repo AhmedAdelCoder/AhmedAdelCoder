@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79E0F&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ahmed+Adel+Coder;Full-Stack+Web+Developer;TypeScript+Lover+%7C+Next.js+Enthusiast;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG Header" />
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F79E0F,100:8A2BE2&height=120&section=header&text=Ahmed%20Adel%20Coder&fontSize=28&fontColor=fff&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F79E0F,100:8A2BE2&height=120&section=header&text=𝓐𝓱𝓶𝓮𝓭%20𝓐𝓭𝓮𝓵&fontSize=28&fontColor=fff&animation=fadeIn" alt="Banner" />
 </div>
 
 ---
