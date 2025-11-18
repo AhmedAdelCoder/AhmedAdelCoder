@@ -73,5 +73,6 @@
 
 <!-- Typing SVG Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" alt="Typing SVG Footer" />
+  <img src="./assets/footer.svg" alt="Typing SVG Footer" />
 </div>
+
