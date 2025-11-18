@@ -72,6 +72,7 @@
 ---
 
 <!-- Typing SVG Footer -->
-<p align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?      font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻) 
+<p align="center">  
+  font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻) 
 </p>
 
