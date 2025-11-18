@@ -15,17 +15,17 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
 </div>
 
 ---
@@ -33,10 +33,10 @@
 ## 📈 GitHub Power Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAdelCoder&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdelCoder&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAdelCoder&show_icons=true&theme=radical" width="300" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdelCoder&layout=compact&theme=radical" width="300" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=AhmedAdelCoder&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AhmedAdelCoder&theme=radical&hide_border=false" width="300" alt="GitHub Streak" />
 </div>
 
 ---
@@ -74,8 +74,6 @@
 ---
 
 <!-- Typing SVG Footer -->
-<p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻)
-
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" alt="Typing SVG Footer" />
+</div>
