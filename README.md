@@ -2,7 +2,7 @@
   <h1>🚀 Welcome to My Universe 🌌</h1>
 
   <!-- Typing SVG Header -->
-  <img src="./assets/header.svg" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79E0F&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ahmed+Adel+Coder;Full-Stack+Web+Developer;TypeScript+Lover+%7C+Next.js+Enthusiast;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG Header" />
 
   <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F79E0F,100:8A2BE2&height=120&section=header&text=Ahmed%20Adel%20Coder&fontSize=28&fontColor=fff&animation=fadeIn" alt="Banner" />
@@ -73,5 +73,5 @@
 
 <!-- Typing SVG Footer -->
 <div align="center">
-  <img src="./assets/footer.svg" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8A2BE2&width=500&lines=Thanks+for+visiting!;Drop+a+star+⭐+if+you+like+it!;Happy+Coding+👨‍💻" alt="Typing SVG Footer" />
 </div>
