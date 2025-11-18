@@ -72,7 +72,7 @@
 ---
 
 <!-- Typing SVG Footer -->
-<div align="center">
+<div >
   <img src="./footer.svg" alt="Typing SVG Footer" />
 </div>
 
