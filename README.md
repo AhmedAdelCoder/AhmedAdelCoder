@@ -62,11 +62,11 @@
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
 
   <!-- Discord -->
-<a href="[https://discord.com/users/1195463698647617648](https://discord.com/users/1195463698647617648)" target="_blank">
+<a href="https://discord.com/users/1195463698647617648" target="_blank">
   <img 
-    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjMkMyRjMzIi8+Cjwvc3ZnPg==" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" 
     alt="Discord"
-    style="width: 45px; height: 45px; background:#2C2F33; padding:13px; border-radius:13px;"
+    style="width:45px; height:45px; border-radius:13px; padding:5px; background:#2C2F33;"
   >
 </a>
   <!-- LinkedIn -->
