@@ -24,6 +24,12 @@
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="API" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
 </div>
 
 ---
