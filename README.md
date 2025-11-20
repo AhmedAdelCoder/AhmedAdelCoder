@@ -57,8 +57,40 @@
 
 ## 📬 Let's Connect
 
+<h2 align="center">📬 Let's Connect</h2>
 
-There was an error committing your changes: AhmedAdelCoder has committed since you started editing. See what changed
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/1195463698647617648" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" 
+      alt="Discord"
+      style="width: 70px; height: 70px; background:#2C2F33; padding:12px; border-radius:10px;"
+    >
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn"
+      style="width: 70px; height: 70px; background:#0A66C2; padding:12px; border-radius:10px;"
+    >
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:aa22200622@gmail.com">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+      alt="Email"
+      style="width: 70px; height: 70px; background:#D93025; padding:12px; border-radius:10px;"
+    >
+  </a>
+
+</div>
+
+
 ---
 
 <!-- Typing SVG Footer -->
