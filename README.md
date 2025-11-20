@@ -58,30 +58,7 @@
 ## 📬 Let's Connect
 
 
-<h2 align="center">📬 Let's Connect</h2>
-
-<div align="center">
-
-  <a href="https://discord.com/users/1195463698647617648" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-2C2F33?style=flat-square&logo=discord&logoColor=white" 
-         alt="Discord" 
-         style="margin: 6px;">
-  </a>
-
-  <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         style="margin: 6px;">
-  </a>
-
-  <a href="mailto:aa22200622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D93025?style=flat-square&logo=gmail&logoColor=white" 
-         alt="Email" 
-         style="margin: 6px;">
-  </a>
-
-</div>
-
+There was an error committing your changes: AhmedAdelCoder has committed since you started editing. See what changed
 ---
 
 <!-- Typing SVG Footer -->
