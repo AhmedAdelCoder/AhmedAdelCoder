@@ -12,10 +12,6 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
-  <h2>🚀 Tech Stack</h2>
-
   <div>
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
