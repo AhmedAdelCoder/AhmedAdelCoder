@@ -16,13 +16,7 @@
 
   <h2>🚀 Tech Stack</h2>
 
-  <div style="
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 18px;
-      margin-top: 20px;
-  ">
+  <div>
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
