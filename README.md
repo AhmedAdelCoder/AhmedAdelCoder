@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Arsenal
 
-  <div>
+  <div align="center" >
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
