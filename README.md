@@ -66,7 +66,7 @@
   <img 
     src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjMkMyRjMzIi8+Cjwvc3ZnPg==" 
     alt="Discord"
-    style="width: 50px; height: 50px; background:#2C2F33; padding:10px; border-radius:10px;"
+    style="width: 45px; height: 45px; background:#2C2F33; padding:13px; border-radius:13px;"
   >
 </a>
   <!-- LinkedIn -->
@@ -74,7 +74,7 @@
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       alt="LinkedIn"
-      style="width: 50px; height: 50px; background:#0A66C2; padding:10px; border-radius:10px;"
+      style="width: 45px; height: 45px; background:#0A66C2; padding:13px; border-radius:13px;"
     >
   </a>
 
@@ -83,7 +83,7 @@
     <img 
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
       alt="Email"
-      style="width: 50px; height: 50px; background:#D93025; padding:10px; border-radius:10px;"
+      style="width: 45px; height: 45px; background:#D93025; padding:13px; border-radius:13px;"
     >
   </a>
 
