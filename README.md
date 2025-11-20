@@ -61,33 +61,25 @@
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
 
-  <!-- Discord -->
-<a href="https://discord.com/users/1195463698647617648" target="_blank">
-  <div style="width:45px; height:45px; background:#2C2F33; border-radius:13px; display:flex; align-items:center; justify-content:center; padding:5px;">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" 
-      alt="Discord"
-      style="width:30px; height:30px;"
-    >
-  </div>
-</a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       alt="LinkedIn"
-      style="width: 45px; height: 45px; background:#0A66C2; padding:13px; border-radius:17px;"
+      style="width: 45px; height: 45px; background:#0A66C2; padding:15px; border-radius:20px;"
     >
   </a>
 
+  <!-- Discord -->
+<a href="https://discord.com/users/1195463698647617648" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="45" height="45">
+</a>
+
+
   <!-- Gmail -->
-  <a href="mailto:aa22200622@gmail.com">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-      alt="Email"
-      style="width: 45px; height: 45px; background:#D93025; padding:13px; border-radius:13px;"
-    >
-  </a>
+<a href="mailto:aa22200622@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45">
+</a>
 
 </div>
 
