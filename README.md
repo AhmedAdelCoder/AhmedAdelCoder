@@ -62,14 +62,13 @@
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
 
   <!-- Discord -->
-  <a href="https://discord.com/users/1195463698647617648" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" 
-      alt="Discord"
-      style="width: 50px; height: 50px; background:#2C2F33; padding:10px; border-radius:10px;"
-    >
-  </a>
-
+<a href="https://discord.com/users/1195463698647617648" target="_blank">
+  <img 
+    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCI+CiAgPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjMkMyRjMzIi8+Cjwvc3ZnPg==" 
+    alt="Discord"
+    style="width: 50px; height: 50px; background:#2C2F33; padding:10px; border-radius:10px;"
+  >
+</a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
     <img 
