@@ -65,9 +65,6 @@
 ---
 
 ## 📬 Let's Connect
-
-<h2 align="center">📬 Let's Connect</h2>
-
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
 
   <!-- LinkedIn -->
