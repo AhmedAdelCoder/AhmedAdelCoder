@@ -57,29 +57,28 @@
 
 ## 📬 Let's Connect
 
+ده الشكل الأكثر احترافية لمربعات كاملة:
+
 <h2 align="center">📬 Let's Connect</h2>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center">
 
-  <!-- Discord -->
   <a href="https://discord.com/users/1195463698647617648" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33" 
+    <img src="https://img.shields.io/badge/Discord-2C2F33?style=flat-square&logo=discord&logoColor=white" 
          alt="Discord" 
-         style="border-radius: 8px; margin: 5px;">
+         style="margin: 6px;">
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
          alt="LinkedIn" 
-         style="border-radius: 8px; margin: 5px;">
+         style="margin: 6px;">
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:aa22200622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D93025" 
+    <img src="https://img.shields.io/badge/Email-D93025?style=flat-square&logo=gmail&logoColor=white" 
          alt="Email" 
-         style="border-radius: 8px; margin: 5px;">
+         style="margin: 6px;">
   </a>
 
 </div>
