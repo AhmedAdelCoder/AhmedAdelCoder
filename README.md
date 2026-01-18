@@ -43,13 +43,6 @@
 </div>
 
 ---
-
-## 🏆 Developer Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAdelCoder&theme=gruvbox&no-frame=false&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🐍 GitHub Activity Snake
