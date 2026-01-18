@@ -43,7 +43,6 @@
 </div>
 
 ---
----
 
 ## 🐍 GitHub Activity Snake
 
