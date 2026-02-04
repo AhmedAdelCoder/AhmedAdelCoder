@@ -1,87 +1,107 @@
-<div align="center">
-  <h1>🚀 Welcome to My Universe 🌌</h1>
+<!-- PROFILE VIEWS -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAdelCoder&label=Profile%20Views&color=orange&style=flat" />
+</p>
 
-  <!-- Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F79E0F&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ahmed+Adel+Coder;Full-Stack+Web+Developer;TypeScript+Lover+%7C+Next.js+Enthusiast;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG Header" />
+<!-- HEADER -->
+<h1 align="center">𝓐𝓱𝓶𝓮𝓭 𝓐𝓭𝓮𝓵</h1>
+<h3 align="center">Full-Stack Web Developer | Computer Science Student 💻</h3>
 
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F79E0F,100:8A2BE2&height=120&section=header&text=𝓐𝓱𝓶𝓮𝓭%20𝓐𝓭𝓮𝓵&fontSize=28&fontColor=fff&animation=fadeIn" alt="Banner" />
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-  <div align="center" >
-    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=git&theme=light" height="50" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
-    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="API" />
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  </div>
----
-
-## 📈 GitHub Power Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAdelCoder&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdelCoder&layout=compact&theme=radical" height="150" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=AhmedAdelCoder&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
-</div>
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=F79E0F&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;TypeScript+%7C+Next.js+Enthusiast;Problem+Solver+%26+Clean+Code+Lover;Always+Learning+Always+Building" />
+</p>
 
 ---
 
-## 🐍 GitHub Activity Snake
+## 🧑‍🚀 About Me  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedAdelCoder/snksnake-game/main/output/github-snake.svg" alt="GitHub Snake" />
-</div>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🎓 Computer Science student  
+- 💻 Full-Stack Web Developer  
+- 🔥 Focused on **React, Next.js, Node.js & TypeScript**
+- 🧠 Strong in **Problem Solving & Data Structures**
+- 🚀 Dreaming to become **Senior Full-Stack → AI Engineer**
+- 📧 Email: **aa22200622@gmail.com**
+
+<br><br>
 
 ---
 
-## 📬 Let's Connect
-<div align="center" style="display: flex; gap: 12px; justify-content: center;">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ahmed-adel-90b369276" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn"
-      style="width: 45px; height: 45px; background:#0A66C2; padding:15px; border-radius:20px;"
-    >
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-adel-90b369276">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
-
-  <!-- Discord -->
-<a href="https://discord.com/users/1195463698647617648" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="45" height="45">
-</a>
-
-
-  <!-- Gmail -->
-<a href="mailto:aa22200622@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45">
-</a>
-
-</div>
-
+  <a href="mailto:aa22200622@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+  <a href="https://discord.com/users/1195463698647617648">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="48"/>
+  </a>
+</p>
 
 ---
 
-<!-- Typing SVG Footer -->
-<div >
-  <img src="./footer.svg" alt="Typing SVG Footer" />
-</div>
+## 🛠 Tech Stack  
 
+### 🌍 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="50"/>
+</p>
+
+---
+
+### ⚙ Backend Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,php" height="50"/>
+</p>
+
+---
+
+### 🧠 Programming & CS  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" height="50"/>
+</p>
+
+---
+
+### 🧰 Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AhmedAdelCoder?label=Followers&style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/stars/AhmedAdelCoder?label=Stars&style=for-the-badge&color=orange" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/AhmedAdelCoder?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/languages/count/AhmedAdelCoder?style=for-the-badge&color=orange" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedAdelCoder/snksnake-game/main/output/github-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">✨ Keep Learning • Keep Building • Never Stop ✨</h2>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="./footer.svg" alt="Footer Animation" />
+</p>
