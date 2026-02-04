@@ -35,21 +35,6 @@
 <br><br>
 
 ---
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-adel-90b369276">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  <a href="mailto:aa22200622@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-  <a href="https://discord.com/users/1195463698647617648">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="48"/>
-  </a>
-</p>
-
----
 ## 🛠️ Technology Arsenal
 
 <div align="center">
